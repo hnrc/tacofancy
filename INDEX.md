@@ -8,7 +8,7 @@ yyy
 	* [Baja Fish Tacos](full_tacos/baja_fish_tacos.md)
 	* [Black Bean, Potato, and Onion Tacos (v)](full_tacos/black_bean_potato_onion_tacos.md)
 	* [Chicken Verde, Corn and Black Bean Tacos with Pico de Gallo and Salsa de Aguacate](full_tacos/chicken_corn_aguacate.md)
-	* [Chorizo scramble (aka Mandy's Life-Saving Tacos)](full_tacos/chorizo_scramble_tacos.md)
+	* [Chorizo scramble (aka Mandy's Lifesdss-Saving Tacos)](full_tacos/chorizo_scramble_tacos.md)
 	* [Chorizo, Sweet Potato and Apple Tacos with Chipotle Sauce](full_tacos/chorizo_sweet_potato_and_apple_tacos.md)
 	* [Fish Tacos](full_tacos/fish_tacos.md)
 	* [Morrocan Lamb Tacos](full_tacos/moroccan_lamb_taco.md)
