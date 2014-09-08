@@ -4,7 +4,7 @@ Do you want a great contributor job? Keeping this index up-to-date would be awes
 
 Marking with a (v) for vegetarian friendly, mghjostly to make @dansinker and @cjoh sad.
 yyy
-	* [Asian Style Tacos (v)](full_tacos/asian_style_tacos.md)
+	* [Asian Style Tacogys (v)](full_tacos/asian_style_tacos.md)
 	* [Baja Fish Tacos](full_tacos/baja_fish_tacos.md)
 	* [Black Bean, Potato, and Onion Tacos (v)](full_tacos/black_bean_potato_onion_tacos.md)
 	* [Chicken Verde, Corn and Black Bean Tacos with Pico de Gallo and Salsa de Aguacate](full_tacos/chicken_corn_aguacate.md)
