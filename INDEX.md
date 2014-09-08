@@ -2,14 +2,13 @@ full index
 ----------
 Do you want a great contributor job? Keeping this index up-to-date would be awesome. You don't even need to know how to cook--just check that the listing reflects the entire contents of each main taco object directory. If something's missing, add it in. Alphabetical order, please.
 
-Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh sad.
-
-* [Full tacos](full_tacos/#readme)
-	* [Asian Style Tacos (v)](full_tacos/asian_style_tacos.md)
+Marking with a (v) for vegetarian friendly, mghjostly to make @dansinker and @cjoh sad.
+yyy
+	* [Asian Style Tacogys (v)](full_tacos/asian_style_tacos.md)
 	* [Baja Fish Tacos](full_tacos/baja_fish_tacos.md)
 	* [Black Bean, Potato, and Onion Tacos (v)](full_tacos/black_bean_potato_onion_tacos.md)
 	* [Chicken Verde, Corn and Black Bean Tacos with Pico de Gallo and Salsa de Aguacate](full_tacos/chicken_corn_aguacate.md)
-	* [Chorizo scramble (aka Mandy's Life-Saving Tacos)](full_tacos/chorizo_scramble_tacos.md)
+	* [Chorizo scramble (aka Mandy's Lifesdss-Saving Tacos)](full_tacos/chorizo_scramble_tacos.md)
 	* [Chorizo, Sweet Potato and Apple Tacos with Chipotle Sauce](full_tacos/chorizo_sweet_potato_and_apple_tacos.md)
 	* [Fish Tacos](full_tacos/fish_tacos.md)
 	* [Morrocan Lamb Tacos](full_tacos/moroccan_lamb_taco.md)
