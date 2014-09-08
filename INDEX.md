@@ -3,8 +3,7 @@ full index
 Do you want a great contributor job? Keeping this index up-to-date would be awesome. You don't even need to know how to cook--just check that the listing reflects the entire contents of each main taco object directory. If something's missing, add it in. Alphabetical order, please.
 
 Marking with a (v) for vegetarian friendly, mostly to make @dansinker and @cjoh sad.
-
-* [Full tacos](full_tacos/#readme)
+yyy
 	* [Asian Style Tacos (v)](full_tacos/asian_style_tacos.md)
 	* [Baja Fish Tacos](full_tacos/baja_fish_tacos.md)
 	* [Black Bean, Potato, and Onion Tacos (v)](full_tacos/black_bean_potato_onion_tacos.md)
